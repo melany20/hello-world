@@ -1,2 +1,4 @@
 # hello-world
-the-firct-rep
+the-first-rep
+
+i'm lu, i'm coffe-addicted
